@@ -9,8 +9,8 @@
   
   inputs.src-shoco-master.flake = false;
   inputs.src-shoco-master.owner = "onionhammer";
-  inputs.src-shoco-master.ref   = "refs/heads/master";
-  inputs.src-shoco-master.repo  = "shoconim";
+  inputs.src-shoco-master.ref   = "master";
+  inputs.src-shoco-master.repo  = "shoconim.git";
   inputs.src-shoco-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
