@@ -1,8 +1,0 @@
-{
-  "desc": "A fast compressor for short strings",
-  "license": "MIT",
-  "name": "shoco",
-  "ref": "refs/heads/master",
-  "url": "https://github.com/onionhammer/shoconim.git",
-  "version": "master"
-}
