@@ -1,5 +1,5 @@
 {
-  description = ''A fast compressor for short strings'';
+  description = ''Wrapper for shoco, https://github.com/Ed-von-Schleck/shoco'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
